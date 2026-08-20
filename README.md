@@ -5,7 +5,8 @@
 CareBridge is an AI-powered healthcare assistant developed as part of the Artificial Intelligence & Machine Learning Lab project.
 
 The system analyzes user-input symptoms and predicts possible diseases using multiple machine learning and deep learning models. It also performs risk assessment, recommends medical departments, and provides disease-related information and precautions through a user-friendly web interface.
-
+## Website Link:
+https://kirpagupta.github.io/carebridge-healthcare-system/
 ---
 
 ## Problem Statement
